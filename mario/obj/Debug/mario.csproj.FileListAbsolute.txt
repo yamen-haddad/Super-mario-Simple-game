@@ -1,0 +1,14 @@
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\mario.exe.config
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\mario.exe
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\mario.pdb
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\OpenTK.dll
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\OpenTK.GLControl.dll
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\obj\Debug\mario.csprojResolveAssemblyReference.cache
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\obj\Debug\mario.exe
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\obj\Debug\mario.pdb
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\flag.png
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\mario.jpg
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\mariomove.jpg
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\pipe.png
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\star.png
+F:\study\4th year\hurry\3rd semester\graphics\practical\marioGame\mario\mario\bin\Debug\image\turtle.png
